@@ -1,0 +1,32 @@
+{
+  "name": "get-image-size",
+  "version": "1.0.0",
+  "description": "According to the image link, to get it's file size.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengxiaohua/get-image-size.git"
+  },
+  "keywords": [
+    "image",
+    "imagesize",
+    "size",
+    "filesize",
+    "getimagesize"
+  ],
+  "author": "pengxiaohua[pengxiaohua@outlook.com]",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pengxiaohua/get-image-size/issues"
+  },
+  "homepage": "https://github.com/pengxiaohua/get-image-size#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
