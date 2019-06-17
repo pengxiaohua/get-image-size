@@ -2,6 +2,9 @@
 According to the image link, to get it's file size.
 Return a float Number, the unit is `Kb`. 
 
+[![Build Status](https://travis-ci.org/pengxiaohua/get-image-size.svg?branch=master)](https://travis-ci.org/pengxiaohua/get-image-size)
+[![codebeat badge](https://codebeat.co/badges/6d3258bc-4b65-4599-ba50-708ca07e2842)](https://codebeat.co/projects/github-com-pengxiaohua-get-image-size-master)
+![](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 ## Usage
 
 ```
