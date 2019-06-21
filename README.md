@@ -13,7 +13,7 @@ npm install get-image-size --save
 
 ##### Promise
 ```
-const getImageSize = require('./getImageSize.js');
+const getImageSize = require('get-image-size');
 
 const testLink = 'http://f.hiphotos.baidu.com/image/pic/item/908fa0ec08fa513d63a4b968316d55fbb2fbd97e.jpg';
 
@@ -24,7 +24,7 @@ getImageSize(testLink).then(imageSize => {
 
 ##### Async/Await
 ```
-const getImageSize = require('./getImageSize.js');
+const getImageSize = require('get-image-size');
 
 const testLink = 'http://f.hiphotos.baidu.com/image/pic/item/908fa0ec08fa513d63a4b968316d55fbb2fbd97e.jpg';
 

@@ -1,6 +1,6 @@
 {
   "name": "get-image-size",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "According to the image link, to get it's file size.",
   "main": "index.js",
   "directories": {
